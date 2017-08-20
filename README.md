@@ -13,6 +13,12 @@ Yammer analysts are trained to constantly consider the value of each individual 
 They are also taught to consider the impact of everything on the company at large. This includes high-level decision making like choosing which projects to prioritize. It also influences the way analysts think about metrics. Product decisions are always evaluated against core engagement, retention, and growth metrics in addition to product-specific usage metrics (like, for example, the number of times someone views another user’s profile).
 
 
+Investigating a Drop in User Engagement
 
+The Problem:
+There was a sudden decrease in Yammer's user engagement after July 28 2014 ,the job is to analyse the cause using SQL 
+There are four tables to come up with the analysis
 
+Check out this link for deatiled analysis
 
+https://modeanalytics.com/editor/the_university_/reports/93dba6cf3ebf
